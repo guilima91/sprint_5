@@ -3,7 +3,7 @@ import pandas as pd
 import plotly_express as px
 
 df = pd.read_csv("vehicles.csv")
-st.header("Análise de anúncios de veículos")
+st.header("Dashboard de anúncios de veículos")
 
 hist_button = st.button("Criar histograma")
 if hist_button:
