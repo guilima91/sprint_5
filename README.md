@@ -1,2 +1,7 @@
 # sprint_5
-projeto sprint 5 TripleTen
+Aplicativo web desenvolvido com Streamlit para análise de anúncios de veículos.
+
+## Funcionalidades
+- Visualização de histograma de quilometragem.
+- Visualização de gráfico de dispersão entre quilometragem e preço.
+
